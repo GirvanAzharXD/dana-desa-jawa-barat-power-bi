@@ -28,7 +28,7 @@ Power BI Desktop (Power Query, DAX, data modeling), Excel
 
 ## File
 - Dana_Desa_Jabar_2024.pbix: file dashboard Power BI
-- Dana_Desa_Jabar_2024-2.xlsx: data pagu, realisasi, dan kemiskinan per kabupaten/kota
+- Dana_Desa_Jabar_2024.xlsx: data pagu, realisasi, dan kemiskinan per kabupaten/kota
 - Dana_Desa_Jabar_2024.pdf: export PDF dashboard
 - screenshots: tangkapan layar ketiga halaman dashboard
 
