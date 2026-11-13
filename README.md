@@ -20,7 +20,7 @@ Apakah dana desa yang lebih besar berarti desa lebih sejahtera? Studi ini menguj
 ### Dana vs Kemiskinan
 <img width="1442" height="781" alt="Dana vs Kemiskinan" src="https://github.com/user-attachments/assets/4b1cf1e4-a788-4061-bf50-e92d222e86b8" />
 
-###Peringkat & Outlier
+### Peringkat & Outlier
 <img width="1441" height="781" alt="Peringkat   Outlier" src="https://github.com/user-attachments/assets/c0b8e3b1-c054-4af3-89dc-a464538b8a61" />
 
 ## Tools
