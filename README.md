@@ -30,7 +30,6 @@ Power BI Desktop (Power Query, DAX, data modeling), Excel
 - Dana_Desa_Jabar_2024.pbix: file dashboard Power BI
 - Dana_Desa_Jabar_2024.xlsx: data pagu, realisasi, dan kemiskinan per kabupaten/kota
 - Dana_Desa_Jabar_2024.pdf: export PDF dashboard
-- screenshots: tangkapan layar ketiga halaman dashboard
 
 ## Cara membuka
 Buka file .pbix dengan Power BI Desktop (gratis, unduh di situs Microsoft). Tidak perlu akun Power BI.
